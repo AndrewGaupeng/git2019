@@ -7,3 +7,7 @@ after delete credentical.store
 after add public.key
 
 after download and modify
+
+
+
+git2 update 
