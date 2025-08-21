@@ -8,4 +8,4 @@ after add public.key
 
 after download and modify
 
-ddddd
+git2 update 
