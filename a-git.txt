@@ -1,7 +1,7 @@
 aaaa
 bbbb
 cccc
-
+change from secondary person
 after delete credentical.store 
 
 after add public.key
