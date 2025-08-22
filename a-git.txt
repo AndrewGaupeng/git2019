@@ -9,3 +9,5 @@ after add public.key
 after download and modify
 
 git2 update 
+
+git update for synchronize
