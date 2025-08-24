@@ -11,3 +11,5 @@ after download and modify
 git2 update 
 
 git update for synchronize
+
+modify in dev "ddddd" on user1
